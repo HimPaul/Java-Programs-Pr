@@ -3,7 +3,7 @@ package LeetCODE;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class TwoVariable {
+public class ContainsDuplicateReturnBoolean {
 
 	public static void main(String[] args) {
 		
