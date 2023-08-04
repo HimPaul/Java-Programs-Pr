@@ -15,8 +15,8 @@ public class MaxProfit {
 	   }
 	   public static void main(String[] args) {
 	 
-	   //int[] prices = {7, 1, 5, 3, 6, 4};
-		 int[] prices = {5, 5, 5, 5, 5, 5};
+	   int[] prices = {7, 1, 5, 3, 6, 4};
+	//int[] prices = {5, 5, 5, 5, 5, 5};
 	   System.out.println("Maximum profit after selling the stocks");
 	   System.out.println(maxProfit(prices));
 	   }
