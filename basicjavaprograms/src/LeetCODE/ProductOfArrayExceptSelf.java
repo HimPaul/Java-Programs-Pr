@@ -32,8 +32,7 @@ public class ProductOfArrayExceptSelf {
 	      System.out.println(ans[i]);
 	    }
 
-	    
-		
+	  
 	}
 
 }
